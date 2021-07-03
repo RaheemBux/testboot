@@ -10,6 +10,6 @@ public class Test {
 
     @GetMapping("/getHelloWorld")
     public String getHelloWorld(){
-        return "Hello World From Heroku with owais!!!";
+        return "Hello World From Heroku with Owais!!!";
     }
 }
